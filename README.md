@@ -5,3 +5,6 @@ https://www.oschina.net/translate/25-new-android-libraries-and-projects-2018?lan
 rxjava2和retrofit封装
 http://blog.csdn.net/DeMonliuhui/article/details/77868677
 
+mvvm
+https://www.jianshu.com/p/734d3693da02
+
